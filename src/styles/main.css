@@ -13,13 +13,6 @@ body {
   background-color: #c7f0d8;
 }
 
-#canvas-wrapper {
-  display: flex;
-  justify-content: center;
-  width: 1280px;
-  margin: 4rem 2rem 2rem 2rem;
-}
-
 .github {
   position: absolute;
   right: 0.75rem;
